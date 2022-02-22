@@ -28,3 +28,21 @@
 - p21 - aceptar estudiante
 - p22 - angulos
 
+## Tarea 2
+- p23 - numeros consecutivos
+- p24 - numero mayor
+- p25 - dia de la semana
+- p26 - numeros romanos
+- p27 - calculo de notas
+- p28 - aceptar estudiante v2
+
+## Actividad 03
+
+- p29 - numeros de 1 a 100
+- p30 - numeros de 100 a 1
+- p31 - numeros de 1 a 200 de 10 en 10 (continue)
+- p32 - numeros de 1 a 200, hasta sumar 100 (break)
+- p33 - cuenta y suma, pos, neg, cer
+- p34 - tabla de multiplicar
+- p35 - tabla de multiplicar v2
+- p36 - tabla de conversion a dolar
