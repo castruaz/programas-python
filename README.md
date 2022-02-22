@@ -46,3 +46,12 @@
 - p34 - tabla de multiplicar
 - p35 - tabla de multiplicar v2
 - p36 - tabla de conversion a dolar
+
+## Tarea 03
+
+- p37 – Numeros impares ascendente
+- p38 - Numeros pares descendente 
+- p39 - Promedio y suma de numeros
+- p40 - Suma hasta 200
+- p41 - Listado de conversión de temperaturas
+- p42 - Numero mayor
